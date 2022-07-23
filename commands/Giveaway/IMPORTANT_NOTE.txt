@@ -1,0 +1,3 @@
+From T.F.A#7524:
+
+I can't add the commands "reroll" and "end" because there is a weird discord-giveaways package error, causing the commands doesn't work propefly, except for the cmd "start".
